@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @brianaendanawas
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: brianamay48@gmail.com
 
 <!---
