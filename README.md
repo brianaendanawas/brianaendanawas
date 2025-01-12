@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianaendanawas
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and software engineering
 - 📫 How to reach me: brianamay48@gmail.com
 
 <!---
